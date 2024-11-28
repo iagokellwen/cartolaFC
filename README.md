@@ -1,0 +1,2 @@
+# cartolaFC
+Projeto CRISP-DM
